@@ -1,0 +1,5 @@
+﻿  HiddenTreasureGame.cpp
+C:\Users\11488\source\repos\HiddenTreasureGame\HiddenTreasureGame\HiddenTreasureGame.cpp(22,17): warning C4566: character represented by universal-character-name '\uFF08' cannot be represented in the current code page (1252)
+C:\Users\11488\source\repos\HiddenTreasureGame\HiddenTreasureGame\HiddenTreasureGame.cpp(27,17): warning C4566: character represented by universal-character-name '\uFF08' cannot be represented in the current code page (1252)
+C:\Users\11488\source\repos\HiddenTreasureGame\HiddenTreasureGame\HiddenTreasureGame.cpp(32,16): warning C4566: character represented by universal-character-name '\uFF08' cannot be represented in the current code page (1252)
+  HiddenTreasureGame.vcxproj -> C:\Users\11488\source\repos\HiddenTreasureGame\x64\Debug\HiddenTreasureGame.exe
